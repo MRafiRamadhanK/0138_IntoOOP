@@ -11,6 +11,9 @@ public :
 		cout << "Nama = " << nama << endl;
 		cout << "Umur = " << umur << endl;
 		cout << "jurusan = " << jurusan << endl;
-
 	}
+};
+
+class MataKuliah {
+
 };
