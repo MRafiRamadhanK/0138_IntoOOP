@@ -30,6 +30,7 @@ public:
 	}
 
 	void ouput() {
+		cout << "kode MK = " << kodeMK << endl;
 
 	}
 };
