@@ -9,5 +9,8 @@ public :
 
 	void input() {
 		cout << "Nama = " << nama << endl;
+		cout << "Umur = " << umur << endl;
+		cout << "jurusan = " << jurusan << endl;
+
 	}
 };
