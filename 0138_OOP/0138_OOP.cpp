@@ -37,5 +37,17 @@ public:
 };
 
 int main() {
+	mahasiswa mhs;
+	matakuliah mk;
+
+	mhs.nama = "Rafi ramadhan";
+	mhs.umur = 20;
+	mhs.jurusan = "teknik informatika";
+	mhs.output();
+
+	mk.input();
+	mk.output();
+
+	return 0;
 
 }
