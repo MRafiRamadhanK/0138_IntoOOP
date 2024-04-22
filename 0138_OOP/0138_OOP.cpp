@@ -7,7 +7,7 @@ public :
 	int umur;
 	string jurusan;
 
-	void input() {
+	void output() {
 		cout << "Nama = " << nama << endl;
 		cout << "Umur = " << umur << endl;
 		cout << "jurusan = " << jurusan << endl;
@@ -29,7 +29,7 @@ public:
 		cin >> sks;
 	}
 
-	void ouput() {
+	void output() {
 		cout << "kode MK = " << kodeMK << endl;
 		cout << "Nama MK = " << namaMK << endl;
 		cout << "SKS : " << sks << endl;
@@ -38,7 +38,7 @@ public:
 
 int main() {
 	mahasiswa mhs;
-	matakuliah mk;
+	MataKuliah mk;
 
 	mhs.nama = "Rafi ramadhan";
 	mhs.umur = 20;
