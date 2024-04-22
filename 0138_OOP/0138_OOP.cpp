@@ -28,4 +28,8 @@ public:
 		cout << "SKS =";
 		cin >> sks;
 	}
+
+	void ouput() {
+
+	}
 };
