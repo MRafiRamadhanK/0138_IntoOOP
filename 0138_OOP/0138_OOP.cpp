@@ -21,6 +21,8 @@ private :
 	int sks;
 public:
 	void input() {
+		cout << "kode MK =";
+		cin >> kodeMK;
 
 	}
 };
