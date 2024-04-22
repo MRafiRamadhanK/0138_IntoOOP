@@ -7,5 +7,7 @@ public :
 	int umur;
 	string jurusan;
 
-	void input (){}
+	void input() {
+		cout << "Nama = " << nama << endl;
+	}
 };
