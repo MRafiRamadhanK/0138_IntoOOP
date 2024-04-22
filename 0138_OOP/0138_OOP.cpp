@@ -31,6 +31,7 @@ public:
 
 	void ouput() {
 		cout << "kode MK = " << kodeMK << endl;
+		cout << "Nama MK = " << namaMK << endl;
 
 	}
 };
